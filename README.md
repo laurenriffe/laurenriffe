@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi! I'm Lauren - aka [laurenriffe][website] 👋
 
-<!--
-**laurenriffe/laurenriffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://github.com/laurenriffe)](https://github.com/laurenriffe)
 
-Here are some ideas to get you started:
+## I'm a current student at The University of Notre Dame
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  
+- 🌱  I am currently learning about....
+- 🥅  Goals for 2025: 
+- 👯  Please reach out if you want to collaborate!
+- ⚡ Fun fact: 
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[Email](lriffe@nd.edu)
+
+
+<br />
+
+---
+
+[website]: [https://franjcf.github.io/](https://github.com/laurenriffe)
+[linkedin]: www.linkedin.com/in/lauren-riffe
