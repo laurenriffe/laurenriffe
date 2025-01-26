@@ -1,4 +1,4 @@
-### Hi! I'm [Lauren][website] ✌
+### Hi! I'm [Lauren][website] 
 
 ## I'm a current student at The University of Notre Dame
 
