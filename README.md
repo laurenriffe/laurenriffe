@@ -5,10 +5,10 @@
 ## I'm a current student at The University of Notre Dame
 
 - ⚡   Finance major with minors in CDT (Computing & Digital Technologies) and Theology 
-- ⚡   
-- ⚡   Goals for 2025: 
+- ⚡   Class of 2026
+- ⚡   Technical Skills: Python, R
 - ⚡   Please reach out if you want to chat or collaborate!
-- ⚡ Fun fact: 
+
 
 ### Connect with me:
 
