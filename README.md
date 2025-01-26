@@ -1,7 +1,5 @@
 ### Hi! I'm [Lauren][website] ✌
 
-[![Website](https://github.com/laurenriffe)](https://github.com/laurenriffe)
-
 ## I'm a current student at The University of Notre Dame
 
 - ⚡   Finance major with minors in CDT (Computing & Digital Technologies) and Theology 
