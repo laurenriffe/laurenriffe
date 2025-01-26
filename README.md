@@ -20,5 +20,5 @@
 
 ---
 
-[website]: [https://franjcf.github.io/](https://github.com/laurenriffe)
+[website]: [https://github.com/laurenriffe](https://github.com/laurenriffe)
 [linkedin]: www.linkedin.com/in/lauren-riffe
