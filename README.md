@@ -4,11 +4,14 @@
 
 - ⚡   Finance major with minors in CDT (Computing & Digital Technologies) and Theology 
 - ⚡   Class of 2026
+- ⚡   Current Projects: Working with Streamlit, VS Code, and Github.
 - ⚡   Technical Skills: Python, R
+- ⚡   Goals: Improve coding skills. 
+- ⚡   Interests: Beach and Indoor Volleyball, Techno, Beat Biking, Travel Montages, Lush Collector, Solo Travel
 - ⚡   Please reach out if you want to chat or collaborate!
 
 
-### Connect with me:
+### Contact Links:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [Email](lriffe@nd.edu)
