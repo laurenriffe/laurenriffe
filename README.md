@@ -1,26 +1,31 @@
-### Hi! I'm [Lauren][website] 
+### Hi there, I'm Lauren 👋
 
-## I'm a current student at The University of Notre Dame
-
-- ⚡   Finance major with minors in CDT (Computing & Digital Technologies) and Theology 
-- ⚡   Class of 2026
-- ⚡   Current Projects: Working with Streamlit, VS Code, and Github.
-- ⚡   Technical Skills: Python, R
-- ⚡   Goals: Improve coding skills. 
-- ⚡   Interests: Beach and Indoor Volleyball, Techno, Beat Biking, Travel Montages, Lush Collector, Solo Travel
-- ⚡   Please reach out if you want to chat or collaborate!
-
-
-### Contact Links:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[Email](lriffe@nd.edu)
-
-
-<br />
+#### 📍 Finance Student at the University of Notre Dame | Class of 2026
 
 ---
 
-[website]: [https://github.com/laurenriffe](https://github.com/laurenriffe)
-[linkedin]: www.linkedin.com/in/lauren-riffe
-![360_F_502813898_7b3ghxBXNNC0Yv5MTRH82SCHjumGMdOn](https://github.com/user-attachments/assets/1fedc553-8436-467d-93e3-2f9cdf5728bd)
+- 💻 **Major**: Finance  
+- 🔧 **Minors**: Computing & Digital Technologies (CDT), Theology  
+- 🧠 **Current Focus**: Building Streamlit apps, refining Python workflows in VS Code, and collaborating on GitHub  
+- 📊 **Technical Skills**: Python, R, Data Visualization, Streamlit  
+- 🎯 **Goals**: Sharpen my coding skills and apply them to tech-driven finance & social impact projects  
+
+---
+
+### 🌟 Interests  
+- Volleyball (Beach + Indoor)  
+- Techno & Beat Biking  
+- Solo Travel + Visual Storytelling (yes to travel montages!)  
+- Lush Product Collector 💚  
+
+---
+
+### 🤝 Let’s Connect  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/lauren-riffe)  
+📧 [Email Me](mailto:lriffe@nd.edu)
+
+---
+
+> 💡 *“Curious mind. Creative spirit. Committed to building things that matter.”*
+
+[Check out my GitHub projects →](https://github.com/laurenriffe)
