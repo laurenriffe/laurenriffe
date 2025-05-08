@@ -21,11 +21,15 @@
 ---
 
 ### 🤝 Let’s Connect  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/lauren-riffe)  
-📧 [Email Me](mailto:lriffe@nd.edu)
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[Email](lriffe@nd.edu)
+
+<br />
 
 ---
 
-> 💡 *“Curious mind. Creative spirit. Committed to building things that matter.”*
+[website]: [https://github.com/laurenriffe]\(https://github.com/laurenriffe\)
+[linkedin]: www.linkedin.com/in/lauren-riffe
 
-[Check out my GitHub projects →](https://github.com/laurenriffe)
+![360\_F\_502813898\_7b3ghxBXNNC0Yv5MTRH82SCHjumGMdOn](https://github.com/user-attachments/assets/1fedc553-8436-467d-93e3-2f9cdf5728bd)
