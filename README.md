@@ -32,25 +32,21 @@
 
 ## [Emotional Bible Reader ✝️](#-emotional-bible-verse-reader)
 A spiritually centered Streamlit app that reads emotional cues from user-written reflections and recommends relevant Bible verses and activities.
-**Tech:** Python, spaCy, pandas, Streamlit_
 
 ---
 
 ## [NER Streamlit App 💖](#-ner-streamlit-app)
 A Named Entity Recognition tool that uses spaCy’s EntityRuler to detect user-defined terms.
-**Tech:** Python, spaCy, Streamlit, pandas_
 
 ---
 
 ## [Pet Finder Project 🐾](#-pet-finder-project)
 A dynamic Streamlit web app that helps users discover adoptable pets.
-**Tech:** Python, pandas, Streamlit_
 
 ---
 
 ## [Tidy Data Project 🧹](#-tidy-data-project)
 A deep dive into Olympic medal data. 
-**Tech:** Python, pandas, matplotlib, seaborn_
 
 ---
 
