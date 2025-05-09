@@ -24,27 +24,33 @@
 - 🏐 Beach + Indoor Volleyball  
 - ✈️ Solo Travel, Vlogging, Storytelling  
 - 🍃 Lush Product Collecting
-- 
+  
+---
+### 💻 Recent Projects
+
 ---
 
-### 💻 Projects on GitHub
-Here are some of the public projects I’ve built, showcasing how I combine tech, faith, and finance:
+### ✝️ [Emotional Bible Reader ✝️](#-emotional-bible-verse-reader)
+A spiritually centered Streamlit app that reads emotional cues from user-written reflections and recommends relevant Bible verses for comfort and encouragement. It uses NLP (spaCy), custom CSV tagging, and interactive UI elements for a personalized faith-based experience.  
+_**Tech:** Python, spaCy, pandas, Streamlit_
 
-- **✝️ Emotional Bible Guide**  
-  A Streamlit web app that uses NLP (spaCy) to detect user emotions and return personalized Bible verses. Features include emotion-based quizzes, custom CSV matching, and animated UI elements.  
-  _Tools: Python, spaCy, pandas, Streamlit_
+---
 
-- **💡 Named Entity Recognition With Sparkle**  
-  An NER web app with a custom EntityRuler and user-editable patterns, focused on making NLP interactive and beginner-friendly.  
-  _Tools: Python, spaCy, Streamlit, pandas_
+### 💖 [NER Streamlit App 💖](#-ner-streamlit-app)
+A pink-themed Named Entity Recognition tool that uses spaCy’s EntityRuler to detect user-defined terms like FOOD, EMOTION, or CELEBRITY. Users can visualize and edit entity patterns in real time with this approachable NLP interface.  
+_**Tech:** Python, spaCy, Streamlit, pandas_
 
-- **🐾 Pet Matcher Tool**  
-  A size-based pet recommendation engine to help users find pets that suit their lifestyle. Built with interactive sliders and data filtering logic.  
-  _Tools: Python, pandas, Streamlit_
+---
 
-- **📊 Finance & Valuation Demos**  
-  Includes example Jupyter notebooks on LBO modeling, DCF walkthroughs, and Excel → Python finance translation guides.  
-  _Tools: Python, Jupyter, Excel_
+### 🐾 [Pet Finder Project 🐾](#-pet-finder-project)
+A dynamic Streamlit web app that helps users discover adoptable pets by filtering based on pet size and other preferences. Designed to make the adoption process more engaging, informative, and user-centered.  
+_**Tech:** Python, pandas, Streamlit_
+
+---
+
+### 🧹 [Tidy Data Project 🧹](#-tidy-data-project)
+A deep dive into Olympic medal data — this project involved cleaning, transforming, and visualizing patterns in gender participation across sports. Demonstrates mastery of the tidy data workflow and storytelling with data.  
+_**Tech:** Python, pandas, matplotlib, seaborn_
 
 ---
 
