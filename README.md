@@ -30,6 +30,6 @@
 ---
 
 [website]: [https://github.com/laurenriffe]\(https://github.com/laurenriffe\)
-[linkedin]: www.linkedin.com/in/lauren-riffe
+[linkedin]: [www.linkedin.com/in/lauren-riffe]\(hwww.linkedin.com/in/lauren-riffe)
 
 ![360\_F\_502813898\_7b3ghxBXNNC0Yv5MTRH82SCHjumGMdOn](https://github.com/user-attachments/assets/1fedc553-8436-467d-93e3-2f9cdf5728bd)
