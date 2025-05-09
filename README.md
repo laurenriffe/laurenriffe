@@ -22,7 +22,7 @@
 
 ### 🤝 Let’s Connect  
 
-[LinkedIn](www.linkedin.com/in/lauren-riffe)[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px" alt="LinkedIn" />](https://www.linkedin.com/in/lauren-riffe)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px" alt="LinkedIn" />](https://www.linkedin.com/in/lauren-riffe)
 [Email](lriffe@nd.edu)
 
 <br />
