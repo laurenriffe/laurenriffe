@@ -23,6 +23,6 @@
 ### 🤝 Let’s Connect  
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px" alt="LinkedIn" />](https://www.linkedin.com/in/lauren-riffe)
-[Email](lriffe@nd.edu)
+[Email](mailto:lriffe@nd.edu)
 
 ![360\_F\_502813898\_7b3ghxBXNNC0Yv5MTRH82SCHjumGMdOn](https://github.com/user-attachments/assets/1fedc553-8436-467d-93e3-2f9cdf5728bd)
