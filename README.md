@@ -22,7 +22,7 @@
 
 ### 🤝 Let’s Connect  
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/lauren-riffe)
+[LinkedIn](www.linkedin.com/in/lauren-riffe)
 [Email](lriffe@nd.edu)
 
 <br />
